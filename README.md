@@ -27,12 +27,12 @@
 | Certificate | Grade |
 |---|---|
 | Python Introduction for Data Science | 6.00/6.00 |
-| Python OOP | 6.00/6.00 |
-| Python Advanced | 6.00/6.00 |
-| JS Front-End | 6.00/6.00 |
-| Programming Fundamentals with Python | 6.00/6.00 |
-| HTML & CSS | 6.00/6.00 |
 | Programming Basics with Python | 6.00/6.00 |
+| Programming Fundamentals with Python | 6.00/6.00 |
+| Python Advanced | 6.00/6.00 |
+| Python OOP | 6.00/6.00 |
+| HTML & CSS | 6.00/6.00 |
+| JS Front-End | 6.00/6.00 |
 
 *Currently completing: PostgreSQL & Database Design*
 
