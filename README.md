@@ -50,7 +50,3 @@
 - Python Web (Django)
 
 ---
-
-⚡ **GitHub Stats**
-
-![Plamen's GitHub stats](https://github-readme-stats.vercel.app/api?username=plamengenov&show_icons=true&theme=dark)
