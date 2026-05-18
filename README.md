@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Languages and Tools: Languages and Tools:
 
 <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/python/python-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/django/django-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/git/git-original.svg" width="40" height="40"/> <img src="https://github.com/devicons/devicon/raw/v2.14.0/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
