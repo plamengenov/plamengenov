@@ -23,11 +23,19 @@ with hands-on technical skills.
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-## 📚 Currently Learning
+## 🏆 Certifications
 
-- PostgreSQL & Database Design
-- Python ORM
-- Python Web (Django)
+| Certificate | Issuer | Grade |
+|---|---|---|
+| Python Introduction for Data Science | SoftUni | 6.00/6.00 |
+| Python OOP | SoftUni | 6.00/6.00 |
+| Python Advanced | SoftUni | 6.00/6.00 |
+| JS Front-End | SoftUni | 6.00/6.00 |
+| Programming Fundamentals with Python | SoftUni | 6.00/6.00 |
+| HTML & CSS | SoftUni | 6.00/6.00 |
+| Programming Basics with Python | SoftUni | 6.00/6.00 |
+
+*Currently completing: PostgreSQL & Database Design — SoftUni*
 
 ## 📫 Connect
 
