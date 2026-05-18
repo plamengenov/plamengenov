@@ -22,13 +22,6 @@ with hands-on technical skills.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-## 📂 Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Ads.txt Overlap Scanner](https://github.com/plamengenov) | Tool for detecting ads.txt overlaps across publisher inventory | HTML, JS |
-| [Programmatic Dashboard](https://github.com/plamengenov) | Revenue and performance tracking dashboard | Python, SQL |
-
 ## 📚 Currently Learning
 
 - PostgreSQL & Database Design
